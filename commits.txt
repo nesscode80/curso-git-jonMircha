@@ -1,0 +1,145 @@
+commit f01e03cb26cdba9490654377d793d201b8bbba7f
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:51:47 2022 -0500
+
+    Agregando dos parrafos
+
+commit b7561acb36bba51ed9ef3196b076ef159506c704
+Merge: 064d12f 52832e6
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:47:24 2022 -0500
+
+    Resolviendo conflictos de estaciones del año con fecha de inicio.
+
+commit 064d12fc570d6a3496cf60b38a822fcf47c49c9b
+Merge: 5925ad2 18572b3
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:38:17 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio.
+
+commit 52832e65fdbfd6cfb63fc791bf1c06196431ba50
+Merge: 5925ad2 18572b3
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:38:17 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio.
+
+commit 5925ad222a08b535c71d5f8324b114221bfd696e
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:23:20 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 18572b307e4ae1c87d3dee5fd31392931745bf9c
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 17 20:23:20 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 1a023a9b32b904314de9ab74a45b9987d5ffad14
+Merge: 45de196 eb139be
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Tue Aug 16 20:23:05 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit eb139bea88a90dbea230222ac208c1b4c1995432
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Tue Aug 16 20:14:23 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 45de19633277c6d6ded0a9153c3360816df1fc0a
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Tue Aug 16 20:10:55 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 2ddef22813b302323c239eeec050feb8a98af3b9
+Merge: 2a25cf9 945c00f
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Tue Aug 16 19:49:13 2022 -0500
+
+    Merge branch 'js'
+
+commit 945c00faa79510bceac51af92590a1e388ff033d
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Mon Aug 15 20:31:26 2022 -0500
+
+    creando index.js
+
+commit 2a25cf974dd6f77b8b37a063a4dba862979e3b49
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Mon Aug 15 20:24:58 2022 -0500
+
+    creando archivo style.css
+
+commit 10875fd1cd4375ec93692b08828675c0938dd9b9
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Mon Aug 15 20:16:44 2022 -0500
+
+    creando Archivo index.html
+
+commit 95845b9ab919b6a3a096bee5e253bae5b451e5ab
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Mon Aug 15 19:54:35 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 95277670ac37faae49928d8c8a53aeaa9c606cda
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Fri Aug 12 21:43:19 2022 -0500
+
+    modificando textos
+
+commit bb4028bbdf0fa96d2f63f104befeddf46b1861ec
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Fri Aug 12 21:38:49 2022 -0500
+
+    Solucion conflicto
+
+commit 5f87ea2c3a565490b1e85ed3be590d9deece4ba8
+Merge: 6ba10a2 9fa1c30
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Fri Aug 12 21:18:30 2022 -0500
+
+    haciendo git pull y actualizando proyecto
+
+commit 9fa1c309db8fec9a5869fafd87a6be28ffb38066
+Author: nesscode80 <101202761+nesscode80@users.noreply.github.com>
+Date:   Fri Aug 12 21:15:55 2022 -0500
+
+    creando licencia del repositorio
+
+commit 6ba10a2961b4cd877be2ddd0e7e39aefb64f7138
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Fri Aug 12 21:02:31 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 8c2d5a46e1a8b5e1cd1b549aedc013b1edff3f04
+Author: nesscode80 <101202761+nesscode80@users.noreply.github.com>
+Date:   Fri Aug 12 21:00:11 2022 -0500
+
+    Update README.md
+    
+    Agregando contenido desde GitHub
+
+commit 7c3bb46e042103902f295531f25293e180f11760
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 10 20:00:55 2022 -0500
+
+    Actualizando contenido del README*
+
+commit a5107e5916dc7438cef43bb4d2859f3877812c0e
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 10 19:58:24 2022 -0500
+
+    Agregando contenido inicial al README*
+
+commit 400a2947ac0f18a8834583895d6cc307f192d346
+Author: Nestor Duarte <nestorfda2@gmail.com>
+Date:   Wed Aug 10 19:49:37 2022 -0500
+
+    mi primer commit 1
