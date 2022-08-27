@@ -8,4 +8,4 @@ hola, aca aprendiendo a manejar esta importante herramienta.
 
 Agregando contenido desde el repositorio en GitHub.
 
-Este commit es para oficializar nuestra versión **1.0.0**.
+Este commit es para oficializar nuestra versión **1.0.0**...
